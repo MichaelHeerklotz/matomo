@@ -11,7 +11,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>68</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Purchase</eventAction>
 				<interactionPosition />
@@ -124,7 +129,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>67</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
@@ -237,7 +247,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>63</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play50%</eventAction>
 				<timeSpent>1320</timeSpent>
@@ -252,7 +267,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>64</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play75%</eventAction>
 				<timeSpent>420</timeSpent>
@@ -267,7 +287,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>66</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<timeSpent>900</timeSpent>
@@ -282,7 +307,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>69</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playEnd</eventAction>
 				<timeSpent>120</timeSpent>
@@ -297,7 +327,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>70</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>720</timeSpent>
@@ -313,7 +348,12 @@
 				<url>http://example.org/finishedMovie</url>
 				<pageIdAction>27</pageIdAction>
 				
+				
 				<pageId>71</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>event category Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventCategory>
 				<eventAction>event action Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventAction>
 				<eventName>event name Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventName>
@@ -428,7 +468,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>65</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
@@ -541,7 +586,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>49</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play</eventAction>
 				<timeSpent>60</timeSpent>
@@ -562,7 +612,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>50</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play25%</eventAction>
 				<timeSpent>60</timeSpent>
@@ -583,7 +638,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>51</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play50%</eventAction>
 				<timeSpent>60</timeSpent>
@@ -604,7 +664,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>52</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play75%</eventAction>
 				<timeSpent>30</timeSpent>
@@ -625,7 +690,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>53</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>playEnd</eventAction>
 				<timeSpent>30</timeSpent>
@@ -646,7 +716,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>54</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>1</timeSpent>
@@ -668,7 +743,12 @@
 				<url>http://example.com/piwik/</url>
 				<pageIdAction>31</pageIdAction>
 				
+				
 				<pageId>55</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>1499</timeSpent>
@@ -691,7 +771,12 @@
 				<pageTitle>Movie Theater</pageTitle>
 				<pageIdAction>15</pageIdAction>
 				
+				
 				<pageId>56</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>60</timeSpent>
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<generationTimeMilliseconds>666</generationTimeMilliseconds>
@@ -705,7 +790,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>57</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>120</timeSpent>
@@ -720,7 +810,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>58</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>120</timeSpent>
@@ -735,7 +830,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>59</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>60</timeSpent>
@@ -750,7 +850,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>60</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>clickBuyNow</eventAction>
 				<timeSpent>120</timeSpent>
@@ -765,7 +870,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>61</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playStart</eventAction>
 				<timeSpent>1320</timeSpent>
@@ -780,7 +890,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>62</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play25%</eventAction>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>
@@ -894,7 +1009,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>22</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Purchase</eventAction>
 				<interactionPosition />
@@ -1011,7 +1131,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>21</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
@@ -1128,7 +1253,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>17</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play50%</eventAction>
 				<timeSpent>1320</timeSpent>
@@ -1143,7 +1273,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>18</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play75%</eventAction>
 				<timeSpent>420</timeSpent>
@@ -1158,7 +1293,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>20</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<timeSpent>900</timeSpent>
@@ -1173,7 +1313,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>23</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playEnd</eventAction>
 				<timeSpent>120</timeSpent>
@@ -1188,7 +1333,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>24</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>720</timeSpent>
@@ -1204,7 +1354,12 @@
 				<url>http://example.org/finishedMovie</url>
 				<pageIdAction>27</pageIdAction>
 				
+				
 				<pageId>25</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>event category Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventCategory>
 				<eventAction>event action Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventAction>
 				<eventName>event name Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long Extremely long ---&gt; SHOULD APPEAR IN TEST OUTPUT NOT TRUNCATED &lt;---</eventName>
@@ -1323,7 +1478,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>19</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>Search</eventAction>
 				<interactionPosition />
@@ -1452,7 +1612,12 @@
 				<pageTitle>Welcome!</pageTitle>
 				<pageIdAction>2</pageIdAction>
 				
+				
 				<pageId>1</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>60</timeSpent>
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<generationTimeMilliseconds>333</generationTimeMilliseconds>
@@ -1466,7 +1631,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>2</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play</eventAction>
 				<timeSpent>60</timeSpent>
@@ -1487,7 +1657,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>3</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play25%</eventAction>
 				<timeSpent>60</timeSpent>
@@ -1508,7 +1683,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>4</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play50%</eventAction>
 				<timeSpent>60</timeSpent>
@@ -1529,7 +1709,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>5</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>play75%</eventAction>
 				<timeSpent>30</timeSpent>
@@ -1550,7 +1735,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>6</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>playEnd</eventAction>
 				<timeSpent>30</timeSpent>
@@ -1571,7 +1761,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>7</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>1</timeSpent>
@@ -1593,7 +1788,12 @@
 				<url>http://example.org/webradio</url>
 				<pageIdAction>3</pageIdAction>
 				
+				
 				<pageId>8</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Music</eventCategory>
 				<eventAction>rating</eventAction>
 				<timeSpent>0</timeSpent>
@@ -1626,7 +1826,12 @@
 				<url />
 				<pageIdAction />
 				
+				
 				<pageId>9</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>CategoryTriggersGoal here</eventCategory>
 				<eventAction>This is an event without a URL</eventAction>
 				<timeSpent>1499</timeSpent>
@@ -1641,7 +1846,12 @@
 				<pageTitle>Movie Theater</pageTitle>
 				<pageIdAction>15</pageIdAction>
 				
+				
 				<pageId>10</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<timeSpent>60</timeSpent>
 				<timeSpentPretty>1 min 0s</timeSpentPretty>
 				<generationTimeMilliseconds>666</generationTimeMilliseconds>
@@ -1655,7 +1865,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>11</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>120</timeSpent>
@@ -1670,7 +1885,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>12</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>120</timeSpent>
@@ -1685,7 +1905,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>13</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playTrailer</eventAction>
 				<timeSpent>60</timeSpent>
@@ -1700,7 +1925,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>14</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>clickBuyNow</eventAction>
 				<timeSpent>120</timeSpent>
@@ -1715,7 +1945,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>15</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>playStart</eventAction>
 				<timeSpent>1320</timeSpent>
@@ -1730,7 +1965,12 @@
 				<url>http://example.org/movies</url>
 				<pageIdAction>16</pageIdAction>
 				
+				
 				<pageId>16</pageId>
+				<contentName />
+				<contentPiece />
+				<contentTarget />
+				<contentInteraction />
 				<eventCategory>Movie</eventCategory>
 				<eventAction>play25%</eventAction>
 				<eventName>Spirited Away (千と千尋の神隠し)</eventName>

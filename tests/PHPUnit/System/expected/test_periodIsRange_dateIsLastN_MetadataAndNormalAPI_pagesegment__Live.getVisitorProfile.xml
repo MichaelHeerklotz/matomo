@@ -63,7 +63,12 @@
 					<pageTitle />
 					<pageIdAction>6</pageIdAction>
 					
+					
 					<pageId>5</pageId>
+					<contentName />
+					<contentPiece />
+					<contentTarget />
+					<contentInteraction />
 					<interactionPosition />
 					<icon>plugins/Morpheus/images/link.png</icon>
 					
@@ -194,7 +199,12 @@
 					<pageTitle>Homepage</pageTitle>
 					<pageIdAction>2</pageIdAction>
 					
+					
 					<pageId>4</pageId>
+					<contentName />
+					<contentPiece />
+					<contentTarget />
+					<contentInteraction />
 					<interactionPosition>1</interactionPosition>
 					<icon />
 					
@@ -303,6 +313,15 @@
 			</pluginsIcons>
 		</row>
 	</lastVisits>
+	<devices>
+		<Desktop>
+			<count>2</count>
+			<icon>plugins/Morpheus/icons/dist/devices/desktop.png</icon>
+			<devices>
+				<Unknown>2</Unknown>
+			</devices>
+		</Desktop>
+	</devices>
 	<userId>0</userId>
 	
 	

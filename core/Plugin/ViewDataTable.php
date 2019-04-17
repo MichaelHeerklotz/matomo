@@ -235,6 +235,23 @@ abstract class ViewDataTable implements ViewInterface
             $report->configureView($this);
         }
 
+        $this->assignRelatedReportsTitle();
+
+        $this->config->show_footer_icons = (false == $this->requestConfig->idSubtable);
+
+        // the exclude low population threshold value is sometimes obtained by requesting data.
+        // to avoid issuing unnecessary requests when display properties are determined by metadata,
+        // we allow it to be a closure.
+        if (isset($this->requestConfig->filter_excludelowpop_value)
+            && $this->requestConfig->filter_excludelowpop_value instanceof \Closure
+        ) {
+            $function = $this->requestConfig->filter_excludelowpop_value;
+            $this->requestConfig->filter_excludelowpop_value = $function();
+        }
+
+        $this->overrideViewPropertiesWithParams($overrideParams);
+        $this->overrideViewPropertiesWithQueryParams();
+
         /**
          * Triggered during {@link ViewDataTable} construction. Subscribers should customize
          * the view based on the report that is being displayed.
@@ -258,23 +275,6 @@ abstract class ViewDataTable implements ViewInterface
          * @param ViewDataTable $view The instance to configure.
          */
         Piwik::postEvent('ViewDataTable.configure', array($this));
-
-        $this->assignRelatedReportsTitle();
-
-        $this->config->show_footer_icons = (false == $this->requestConfig->idSubtable);
-
-        // the exclude low population threshold value is sometimes obtained by requesting data.
-        // to avoid issuing unnecessary requests when display properties are determined by metadata,
-        // we allow it to be a closure.
-        if (isset($this->requestConfig->filter_excludelowpop_value)
-            && $this->requestConfig->filter_excludelowpop_value instanceof \Closure
-        ) {
-            $function = $this->requestConfig->filter_excludelowpop_value;
-            $this->requestConfig->filter_excludelowpop_value = $function();
-        }
-
-        $this->overrideViewPropertiesWithParams($overrideParams);
-        $this->overrideViewPropertiesWithQueryParams();
     }
 
     private function assignRelatedReportsTitle()
